@@ -21,7 +21,7 @@ public class Solution {
         // напишите тут ваш код
         wolf.ate.add(hood);
         wolf.ate.add(grandmother);
-        woodman.
+        woodman.killed.add(wolf);
     }
 
     //красная шапочка
